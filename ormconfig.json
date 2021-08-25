@@ -1,0 +1,9 @@
+{
+    "name":"default",
+    "type": "mongodb",
+    "url":"mongodb+srv://postgres:postgres@typegrapgh-example.q5bs8.mongodb.net/typegraph-example?retryWrites=true&w=majority",
+    "logging":true,
+    "entities":[
+        "src/entity/*.*"
+    ]
+ }
